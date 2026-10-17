@@ -1,0 +1,21 @@
+{
+  "name": "yaho-korean-docs",
+  "interface": {
+    "displayName": "YAHO KOREAN DOCS"
+  },
+  "plugins": [
+    {
+      "name": "yaho-korean-docs",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Supereru/YAHO-KOREAN-DOCS.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

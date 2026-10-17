@@ -1,0 +1,4 @@
+interface:
+  display_name: "명확한 한국어 기술 문서"
+  short_description: "원문의 뜻을 지키며 기술 문서의 문장과 용어를 명확하게 다듬습니다."
+  default_prompt: "$yaho-korean-docs를 사용해 다음 문서를 원문의 의미와 수치를 보존하며 명확한 한국어로 다듬어 주세요."

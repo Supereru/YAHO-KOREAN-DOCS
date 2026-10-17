@@ -1,0 +1,36 @@
+{
+  "name": "yaho-korean-docs",
+  "version": "1.0.0",
+  "description": "한국어 기술 문서를 원문의 의미와 수치를 유지하면서 정리하는 스킬",
+  "author": {
+    "name": "Supereru",
+    "url": "https://github.com/Supereru"
+  },
+  "homepage": "https://github.com/Supereru/YAHO-KOREAN-DOCS",
+  "repository": "https://github.com/Supereru/YAHO-KOREAN-DOCS",
+  "keywords": [
+    "korean",
+    "technical-writing",
+    "docs"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "YAHO KOREAN DOCS",
+    "shortDescription": "한국어 기술 문서 정리",
+    "longDescription": "원문의 의미와 수치를 유지하면서 한국어 기술 문서의 문장과 용어를 정리한다.",
+    "developerName": "Supereru",
+    "category": "Productivity",
+    "capabilities": [
+      "Instructions"
+    ],
+    "websiteURL": "https://github.com/Supereru/YAHO-KOREAN-DOCS",
+    "defaultPrompt": [
+      "이 문서를 원문의 의미와 수치를 유지하면서 다듬어 줘.",
+      "이 문서의 용어를 통일하고 변경 전후 비교표도 보여 줘."
+    ],
+    "brandColor": "#E60012",
+    "composerIcon": "./assets/yaho-korean-docs.png",
+    "logo": "./assets/yaho-korean-docs.png"
+  },
+  "license": "MIT"
+}

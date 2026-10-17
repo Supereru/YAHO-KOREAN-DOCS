@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "yaho-korean-docs",
+  "description": "한국어 기술 문서를 원문의 의미와 수치를 유지하면서 정리하는 스킬",
+  "owner": {
+    "name": "Supereru",
+    "url": "https://github.com/Supereru"
+  },
+  "plugins": [
+    {
+      "name": "yaho-korean-docs",
+      "description": "한국어 기술 문서의 문장과 용어를 정리한다. 규칙 36개, 용어 140개 포함.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
