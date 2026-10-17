@@ -24,11 +24,6 @@
 
 에이전트마다 스크립트로 설치가 가능합니다. 
 
-**Claude Code** (v2.1.275 이상)
-
-```text
-/plugin install yaho-korean-docs --marketplace Supereru/YAHO-KOREAN-DOCS
-```
 
 **Codex**
 
@@ -52,14 +47,6 @@ npx skills add Supereru/YAHO-KOREAN-DOCS -g
 
 ### 다른 설치 방법
 
-**Claude Code 버전이 낮을 때**: 두 명령을 따로 보냅니다.
-
-```text
-/plugin marketplace add Supereru/YAHO-KOREAN-DOCS
-```
-```text
-/plugin install yaho-korean-docs@yaho-korean-docs
-```
 
 **Codex 플러그인으로 설치**: 마켓을 추가한 뒤 Codex의 `/plugins` 화면에서 설치합니다.
 
